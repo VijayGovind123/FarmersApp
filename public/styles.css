@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans&family=Chivo&family=IBM+Plex+Sans&family=Outfit&family=Plus+Jakarta+Sans&family=Work+Sans&display=swap');
+
 @font-face {
   font-family: apple;
   src: url(sfprodisplaymedium.otf);
@@ -8,7 +10,7 @@ a{
 }
 body{
   color: white;
-  font-family: apple;
+  font-family: 'IBM Plex Sans', sans-serif;
   background-image:url(cool.png);
   background-repeat: no-repeat;
   background-position: center;
