@@ -9,9 +9,9 @@ a{
   color: black;
 }
 body{
-  color: white;
-  font-family: 'IBM Plex Sans', sans-serif;
-  background-image:url(cool.png);
+  color: black;
+  font-family: 'Plus Jakarta sans', sans-serif;
+  background-image:url(pexels.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -37,7 +37,7 @@ body{
 
 }
 nav{
-
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   position: fixed;
   background-color: #fefffe;
    font-family: 'IBM Plex Sans', sans-serif;
